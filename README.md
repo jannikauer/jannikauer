@@ -7,7 +7,7 @@
 <a href="https://twitter.com/jannik_auer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nielsencv_ai" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/jannikauer1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolaiai" height="30" width="40" /></a>
 
-
+📫 Inquiries **jannik.auer@outlook.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
